@@ -1,4 +1,7 @@
+\.idea
 \.settings
 \bin
+\out
 .classpath
 .project
+Somasse.iml
