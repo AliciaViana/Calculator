@@ -6,8 +6,14 @@ public class Calcular {
 		return (numero1 + numero2);
 	}
 
-	public int realiazaMultiplicacao(int numero3, int numero4) {
-		return (numero3 * numero4);
+	public int realiazaMultiplicacao(int numero1, int numero2) {
+		return (numero1 * numero2);
 
 	}
+
+	public int realizaSubtracao(int numero1, int numero2) {
+		return (numero1 - numero2);
+
+	}
+
 }
