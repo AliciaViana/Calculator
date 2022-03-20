@@ -15,5 +15,9 @@ public class Calcular {
 		return (numero1 - numero2);
 
 	}
+	public int realizaDivisao (int numero1,int numero2){
+		return (numero1 / numero2);
+
+	}
 
 }
